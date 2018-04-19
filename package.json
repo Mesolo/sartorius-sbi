@@ -26,6 +26,6 @@
   "homepage": "https://github.com/ericlowry/sartorius-sbi#readme",
   "dependencies": {
     "mathjs": "^3.10.3",
-    "serialport": "^4.0.7"
+    "serialport": "^6.2.0"
   }
 }
